@@ -1,0 +1,9 @@
+body {
+    background: black;
+    font-family: 'Fira Sans';
+    color: white;
+}
+img {
+    width: auto;
+    max-height: 650px;
+}
